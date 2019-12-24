@@ -1,3 +1,3 @@
 # cocossd
 deploy
-[visit the page](www.google.com)
+[demo](https://shauryabit2k18.github.io/cocossd/)
